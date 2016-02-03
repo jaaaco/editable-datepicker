@@ -1,5 +1,3 @@
-Form inputs that automagically save data to collection
-==============================================================================
 ## Overview
 
 It's date picker component based on https://github.com/eternicode/bootstrap-datepicker 
